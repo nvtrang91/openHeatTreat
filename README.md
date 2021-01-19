@@ -6,5 +6,5 @@ This repository uses different open sources to analyze heat treatment manufactur
 
 ## Content
 1. Notebooks
-- [Solving diffusion equation with FEniCS](https://github.com/nvtrang91/openHeatTreat/blob/main/notebooks/Carbon%20diffusion%20calculation%20with%20FEniCS.ipynb)
+- [Carbon diffusion with FEniCS](https://github.com/nvtrang91/openHeatTreat/blob/main/notebooks/Carbon%20diffusion%20calculation%20with%20FEniCS.ipynb)
 - Improving case hardening by Low Pressure Carburizing over Atmospheric Carburizing
