@@ -3,10 +3,9 @@ This repository uses different open sources to analyze heat treatment manufactur
 
 ## Heat treatment
 Humans have been applying heat treatment in metalsmithing for thousands of years, from forging kitchen knife to 3m long plane landing gear. 
-Now with materials science, computational science, and lots of other disciplines, we can analyze and understand this very old technology in much more details.
+Now with materials science, computational science, and other disciplines, we can analyze and understand this very old technology in much more details.
 
 ## Content
 1. Notebooks
-- Possion Equation - 'Hello world' task of Finite Element Methods (FEM) for Partial Differential Equation (PDE)
-
-
+- Solving diffusion equation with FEniCS
+- Improving case hardening by Low Pressure Carburizing over Atmospheric Carburizing
