@@ -7,4 +7,8 @@ This repository uses different open sources to analyze heat treatment manufactur
 ## Content
 1. Notebooks
 - [Carbon diffusion with FEniCS](https://github.com/nvtrang91/openHeatTreat/blob/main/notebooks/Carbon%20diffusion%20calculation%20with%20FEniCS.ipynb)
-- Improving case hardening by Low Pressure Carburizing over Atmospheric Carburizing
+- [Improving case hardening by Low Pressure Carburizing over Atmospheric Carburizing](https://github.com/nvtrang91/openHeatTreat/blob/main/notebooks/nb02.%20Improving%20case%20hardening%20with%20LPC%20over%20AC.ipynb)
+- [LPC vs AC viz](https://github.com/nvtrang91/openHeatTreat/blob/main/notebooks/nb03.%20LPC_AC_viz.ipynb)
+- Working on: 
+  - Quantitative assessment of carbide forming in low and high alloy steel
+  - Phase diagram and thermodynamic modeling
